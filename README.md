@@ -100,11 +100,11 @@ automation-tools/
 ---
  
 ## `$ watch -n 1 git log --oneline`
- 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake.svg?v=2" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake.svg?v=2" />
 </picture>
 
 ---
