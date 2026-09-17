@@ -70,18 +70,6 @@ A collection of backend utilities, API integrations and developer tooling built 
 * Systems engineering
 
 ---
-
-## GitHub
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JGDEV-021&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGDEV-021&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
-
-</div>
-
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake-dark.svg?v=2" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JGDEV-021/JGDEV-021/output/github-snake.svg?v=2" />
@@ -89,16 +77,13 @@ A collection of backend utilities, API integrations and developer tooling built 
 </picture>
 
 ---
- 
-<div align="center">
 
-```build → break → understand → rebuild```
- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=JGDEV-021.JGDEV-021&left_color=111111&right_color=c8f5b0&left_text=visitors)
-
----
 <div align="center">
 
 **Build. Understand. Improve.**
+
+ 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JGDEV-021.JGDEV-021&left_color=111111&right_color=c8f5b0&left_text=visitors)
+
 
 </div>
